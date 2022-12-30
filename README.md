@@ -32,7 +32,7 @@ npm install
 * After that just run the server using PM2 thats all 
 * If you found any error create issue .
 * See client folder to get example how to implement the server .
-
+* You can also use Replit
 
 ## Show your support
 
